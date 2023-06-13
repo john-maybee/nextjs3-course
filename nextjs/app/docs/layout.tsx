@@ -1,5 +1,3 @@
-import styles from './style.module.css'
-
 const DocsLayout = ({ children }) => {
     return (
       <div>
